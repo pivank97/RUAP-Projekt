@@ -1,2 +1,2 @@
 # RUAP-Projekt
-Repozitorij za laboratorijske vježbe iz kolegija RUAP
+Moj repozitorij za kolegij RUAP
