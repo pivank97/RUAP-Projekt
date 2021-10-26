@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Pozdrav iz aplikacije od Petar Ivankovic\n";
+    cout << "Broj mog indeksa je: 601983\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
